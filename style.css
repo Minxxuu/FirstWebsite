@@ -138,6 +138,15 @@ img{
     margin-bottom: 0px;
 
 }
+
+.wording{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    flex-grow: 1;
+    align-items:center;
+
+}
 .letterbtn{
     display: flex;
     flex:1;
